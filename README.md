@@ -3,7 +3,7 @@ trojan-mice
 
 A possible space for @kevbartle's open source book on teaching leadership
 
-Could using GitHub be a great solution for writing an open-source collaborative book on education? I'm no expert on GitHub but being designed around collaboration, version control, comments, issues etc it could work beuatifully?
+Could using GitHub be a great solution for writing an open-source collaborative book on education? I'm no expert on GitHub but being designed around collaboration, version control, comments, issues etc it could work beautifully?
 
 
 
